@@ -1,3 +1,3 @@
-# BD-Diff: Generative Diffusion Model for Image Deblurring on Unknown Domains with Blur-Decoupled Learning
+# Unpaired Deblurring via Decoupled Diffusion Model
 
 Under review. Will be released soon.
